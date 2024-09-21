@@ -1,0 +1,4 @@
+cd ../client
+git add .
+git commit -m "Set up frontend"
+git push origin main
